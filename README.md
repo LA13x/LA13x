@@ -2,9 +2,6 @@
 
 ### Reverse Engineering | Malware Analysis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LA13x&label=Profile views&color=0e75b6&style=flat" alt="LA13x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LA13x" alt="LA13x" /></a> </p>
 
 - 🔭 I'm currently working on **OUC | Tencent**
 
